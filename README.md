@@ -41,7 +41,7 @@ Automatically deployed to Azure Static Web Apps on every merge to \`main\`.
 
 \`\`\`bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/azure-portfolio.git
+git clone https://github.com/AjayMorla02/azure-portfolio.git
 
 # Open src/ folder and launch with Live Server
 \`\`\`

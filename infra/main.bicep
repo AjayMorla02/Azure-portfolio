@@ -20,7 +20,7 @@ param location string = 'eastus2'
 param environment string = 'prod'
 
 @description('Your GitHub repo URL')
-param repositoryUrl string = 'https://github.com/YOUR_USERNAME/azure-portfolio'
+param repositoryUrl string = 'https://github.com/AjayMorla02/azure-portfolio'
 
 @description('Branch to deploy from')
 param branch string = 'main'

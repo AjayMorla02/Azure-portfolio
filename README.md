@@ -1,4 +1,5 @@
 # Azure-portfolio
+![Deploy to Azure](https://github.com/YOUR_USERNAME/azure-portfolio/actions/workflows/deploy.yml/badge.svg)
 # 🌐 Azure Portfolio Website
 
 A personal portfolio website hosted on **Azure Static Web Apps** with
@@ -47,3 +48,6 @@ git clone https://github.com/YOUR_USERNAME/azure-portfolio.git
 
 ## 📌 Project Status
 🟡 In Progress — Phase 1: Repo Setup
+
+## 📌 Project Status
+🟢 Live — Deployed via GitHub Actions CI/CD
